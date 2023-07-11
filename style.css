@@ -1,0 +1,44 @@
+
+body{
+    margin: 0;
+    
+}
+h1{
+    border: 3px solid red;
+    background-color: red;
+    scroll-margin-inline:1%;
+    color: white;
+    
+
+    
+    
+}
+h4{
+    color: white;
+}
+p{
+    border: 3px solid white;
+    width: fit-content;
+    background-color: white;
+}
+body{
+    background-image: url("hey.jpg");
+    background-size: cover;
+   
+
+    
+}
+
+#container{
+    margin: 100px;
+max-width: 500px;
+height: 600px;
+background-color: rgba(9, 6, 6, 0.554);
+background-blend-mode:lighten;
+
+}
+
+
+
+
+
